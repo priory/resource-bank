@@ -2,9 +2,9 @@
 **Offline ervaring**, **background syncs** en **push notificaties** zijn nu te gebruiken door service workers. Voorheen was dit alleen bruikbaar in **native apps**. 
 
 ## Inhoudsopgave
-1. [Wat is een service worker?](#wat-is-een-service-worker)
-2. [Hoe werkt een service worker?](#hoe-werkt-een-service-worker)
-3. [Hoe zet je een service worker op?](#hoe-zet-je-een-service-worker-op)
+1. [Wat is een service worker?](#1-wat-is-een-service-worker)
+2. [Hoe werkt een service worker?](#2-hoe-werkt-een-service-worker)
+3. [Hoe zet je een service worker op?](#3-hoe-zet-je-een-service-worker-op)
 
 ## 1. Wat is een service worker?
 Een service worker draait in de achtergrond en kan functioneren zonder een web pagina of gebruikersinteractie. Een service worker geeft de mogelijkheid tot de volgende features; **push notificatie** en **background sync**. Een service worker wordt nu de dag veel toegepast om een offline ervaring toe te voegen.
